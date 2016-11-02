@@ -1,0 +1,1 @@
+"A branch makes it possible to work on a file and later merge it with a master file. Thereby you can work on mutliple parts yourself or with a couple of people." 
