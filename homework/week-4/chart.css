@@ -1,6 +1,12 @@
+body{
+	background-color: #bdbdbd;
+}
+
 h1{
 	text-align: center;
 	color: #b10026;
+	font-family: "georgia";
+
 }
 
 .bar {
@@ -60,4 +66,8 @@ svg{
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
+	background-color: #ffffff;
+	border-color: #636363;
+	border-style: solid;
+
 }

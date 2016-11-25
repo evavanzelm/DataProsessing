@@ -35,21 +35,6 @@ var chart = d3.select(".chart")
 
 chart.call(tip);
 
-//Make an SVG Container
-var svgContainer = d3.select(".squere")
-  .attr("width", 200)
-  .attr("height", 200)
-  .style("visibility", "hidden");
-
- 
- //Draw the Rectangle
-var rectangle = svgContainer.append("squere")
-  .attr("x", 10)
-  .attr("y", 10)
-  .attr("width", 50)
-  .attr("height", 100);
-  
-
 // reading in data
 d3.json("data.json", function(data) {
 
@@ -96,12 +81,10 @@ d3.json("data.json", function(data) {
     .on("mouseover",  function(d) {
       tip.show(d)
       d3.select(this).attr("r", 10).style("fill", "#b10026");
-      d3.select(".squere").style("visibility", "visible");
     })                  
     .on("mouseout", function(d) {
        tip.hide(d)
       d3.select(this).attr("r", 5.5).style("fill", "#1c9099");
-      d3.select(".squere").style("visibility", "hidden");
     });
 
 

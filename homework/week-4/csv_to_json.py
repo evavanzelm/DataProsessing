@@ -1,10 +1,10 @@
 import csv
 import json
 
-jsonfile = open('data.json', 'w')
+jsonfile = open('data2.json', 'w')
 countries = {}
 
-with open("totalcarbondioxideemissionsfromtheconsumptionofenergy20052009millionmetrictons.csv", "rb") as csvfile:
+with open("set2.csv", "rb") as csvfile:
 	fieldnames = ("Country","Data")
 	reader = csv.DictReader(csvfile, fieldnames)
 	jsonfile.write('[')

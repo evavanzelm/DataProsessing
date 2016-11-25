@@ -1,4 +1,19 @@
 1. 	Select, selects the first element with a specific tag, selectAll selects all the elements with a certain tag.
 	Then you can use .append to append stuf or .style to change styles etc.
 2. 	Arguments
-3. 
+
+3. 	d3.select("svg")
+	chart.append("div")
+		.attr("class", "barChart1")
+
+	d3.select("body")
+	chart.append("svg")
+		.attr("class", "barChart2")
+		.attr("x", width)
+		.atrr("y", hight)
+
+4. 	Using select, data(), enter() and append you can add an new html element to a selected element containing certain data
+
+5. Where an HTML canvas is pixel based an SVG is vector based, thus SVGs rescale better than HTMLs
+
+6. appended elements were bars and axis 
