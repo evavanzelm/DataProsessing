@@ -1,0 +1,50 @@
+<!--
+Map of Birth Rate
+Eva van Zelm
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="map.css"/>
+</head>
+<body>
+	<script src="datamaps.world.min.js"></script>
+
+	<div id = "border" style=" width: 1000px;">
+	<h1>
+		Birth rate per country in 2013 (live births per 1,000 people)
+	</h1>
+	</div>
+
+	<div id = "whitespace" style=" width: 1000px; height: 3px;"></div>
+
+	<div id = "border" style=" width: 1000px;">
+	<div id = "border1" style=" width: 940px;">
+
+	<p>
+		This visualization shows the crude birth rate in 2013 per country. The crude birth rate is the amount of live births per 1,000 people per year. The rates are visualized in 5 categories: 0-10 (a), 10-20 (b), 20-30 (c), 30-40 (d) and 40-50 (e) births per 1,000 people. This shows an interesting geographic distribution of these categories. Most african countries fall in the higher birth rate categories while european countries often fall in the lower categories. An interactive pop up will show the absolute birth rate of any country.  
+	</p>
+
+	</div>
+	</div>
+
+	<div id = "whitespace" style=" width: 1000px; height: 3px;"></div>
+
+
+	<div id = "frame" style=" width: 1000px;"">
+		<div id="map" style=" width: 990px; height: 680px;" ></div>
+	</div>
+
+	<div id = "whitespace" style=" width: 1000px; height: 13px;"></div>
+
+ 	<div id ="name">
+ 	Eva van Zelm
+ 	</div>
+
+	<script src="map.js"></script>
+</body>
+</html>
