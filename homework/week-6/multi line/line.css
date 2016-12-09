@@ -1,0 +1,70 @@
+/*
+Simple line
+Eva van Zelm
+*/
+
+body{
+	font-family: georgia;
+}
+h1{
+	text-align: center;
+	color: #bd0026;
+	font-size: 26px;
+}
+
+p{
+	margin-left: 100px
+	margin-right: 100px;
+	text-align: justify;
+	font-size: 17px;
+
+}
+
+#border {
+    margin: auto;
+    width: 50%;
+    background-color: #bdd7e7;
+    border: 3px solid black;
+}
+
+#border1 {
+    margin: auto;
+    width: 50%;
+    background-color: #bdd7e7;
+}
+
+#name{
+
+	margin-left: 75%
+}
+
+#frame{
+	margin: auto;
+	width: 50%;
+	background-color: #bdd7e7;
+	border: 3px solid black;
+}
+
+.line {
+	fill: none;
+	stroke: #bd0026;
+	stroke-width: 1px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1px;
+
+}
+
+.overlay {
+	fill: none;
+	pointer-events: all;
+}
+
+.focus circle {
+	fill: none;
+	stroke: steelblue;
+}
