@@ -1,0 +1,157 @@
+/*
+CSS file to format visualization
+Eva van Zelm
+*/
+
+body{
+	font-family: 'Raleway', sans-serif;
+	line-height: 1.5;
+}
+h1{
+	text-align: center;
+	color: #bd0026;
+	font-size: 30px;
+}
+h2{
+	text-align: center;
+	color: #bd0026;
+	font-size: 22px;
+}
+
+p{
+	margin-left: 100px
+	margin-right: 100px;
+	text-align: justify;
+	font-size: 20px;
+
+}
+
+.click{
+	text-align: center;
+	position: relative;
+    top: 35%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+	color: #969696;
+}
+
+#map {
+
+    margin: auto;
+    background-color: #bdd7e7;
+    position: relative;
+}
+
+#border {
+	margin:10px;
+    float:left;/*Add float left*/
+    margin :10px;
+    background-color: #bdd7e7;
+    border: 3px solid black;
+}
+
+#whitespace {
+	float:left;/*Add float left*/
+}
+
+#border1 {
+    margin: auto;
+    width: 50%;
+    background-color: #bdd7e7;
+}
+
+#name{
+	margin-left: 90%;
+	float:left;/*Add float left*/
+}
+
+#frame{
+
+	margin:10px;
+    float:left;/*Add float left*/
+    margin :10px;
+	background-color: #bdd7e7;
+	border: 3px solid black;
+}
+
+#pie{
+	padding-left:30px;
+
+/*    float:left;Add float left*/
+
+}
+
+.piechart{
+
+	margin:10px;
+    float:left;/*Add float left*/
+    margin :10px;
+	font-size: 14px
+
+/*	border: 3px solid black;*/
+}
+
+
+
+
+.slice text {
+   font-size: 12px;
+}
+
+/*for bar graph*/
+.legend {
+    font-size: 12px;
+}
+
+rect {
+    stroke-width: 2;
+}
+
+text {
+  font: 14px sans-serif;
+}
+
+.axis text {
+  font: 14px sans-serif;
+}
+
+.axis path{
+  fill: none;
+  stroke: #000;
+}
+
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis .tick line {
+  stroke-width: 1;
+  stroke: rgba(0, 0, 0, 0.2);
+}
+
+.axisHorizontal path{
+  fill: none;
+}
+
+.axisHorizontal line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axisHorizontal .tick line {
+  stroke-width: 1;
+  stroke: rgba(0, 0, 0, 0.2);
+}
+
+.bar {
+  fill: steelblue;
+  fill-opacity: .9;
+}
+
+.x.axis path {
+  display: none;
+}

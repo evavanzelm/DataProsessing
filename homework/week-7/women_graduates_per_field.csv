@@ -1,0 +1,1257 @@
+COUNTRY,Country ,FIELD,Field,ISC11_LEVEL_CAT,Level of education,Value
+AUS,Australia,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),75.2
+AUS,Australia,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.4
+AUS,Australia,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),56.3
+AUS,Australia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),37
+AUS,Australia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),22.6
+AUS,Australia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),51.2
+AUS,Australia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),77.7
+AUS,Australia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),57.9
+AUS,Australia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.0375
+AUT,Austria,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),83.4
+AUT,Austria,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),69.9
+AUT,Austria,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.6
+AUT,Austria,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),33.6
+AUT,Austria,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),21.8
+AUT,Austria,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),52.5
+AUT,Austria,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),71.4
+AUT,Austria,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),79.3
+AUT,Austria,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.9375
+BRA,Brazil,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.4
+BRA,Brazil,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),57
+BRA,Brazil,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.6
+BRA,Brazil,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),34.7
+BRA,Brazil,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),33.2
+BRA,Brazil,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),45.6
+BRA,Brazil,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.5
+BRA,Brazil,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.7
+BRA,Brazil,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.4625
+CHE,Switzerland,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),69.3
+CHE,Switzerland,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.2
+CHE,Switzerland,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),48.1
+CHE,Switzerland,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),32.2
+CHE,Switzerland,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),14.7
+CHE,Switzerland,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),34.8
+CHE,Switzerland,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),74.2
+CHE,Switzerland,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),42.1
+CHE,Switzerland,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),47.075
+CHL,Chile,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.7
+CHL,Chile,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.3
+CHL,Chile,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),57.8
+CHL,Chile,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),21.3
+CHL,Chile,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),17.3
+CHL,Chile,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),46.8
+CHL,Chile,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),77.2
+CHL,Chile,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),47.5
+CHL,Chile,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.9875
+COL,Colombia,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),67.6
+COL,Colombia,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),50.8
+COL,Colombia,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.7
+COL,Colombia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),40.8
+COL,Colombia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),32.2
+COL,Colombia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),41.9
+COL,Colombia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),72.3
+COL,Colombia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),45.6
+COL,Colombia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),51.6125
+CRI,Costa Rica,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),74.3
+CRI,Costa Rica,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.8
+CRI,Costa Rica,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.6
+CRI,Costa Rica,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),33.5
+CRI,Costa Rica,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),34.4
+CRI,Costa Rica,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),43
+CRI,Costa Rica,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.9
+CRI,Costa Rica,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.7
+CRI,Costa Rica,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.025
+CZE,Czech Republic,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),83.7
+CZE,Czech Republic,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),70.5
+CZE,Czech Republic,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),67.1
+CZE,Czech Republic,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.6
+CZE,Czech Republic,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),28.1
+CZE,Czech Republic,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.3
+CZE,Czech Republic,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),82.6
+CZE,Czech Republic,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),51.6
+CZE,Czech Republic,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),60.1875
+DEU,Germany,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.8
+DEU,Germany,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),70.1
+DEU,Germany,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),56
+DEU,Germany,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.3
+DEU,Germany,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),19.3
+DEU,Germany,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),41.5
+DEU,Germany,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),70
+DEU,Germany,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.3
+DEU,Germany,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),52.6625
+DNK,Denmark,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),70.4
+DNK,Denmark,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),67.8
+DNK,Denmark,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.3
+DNK,Denmark,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),35.9
+DNK,Denmark,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),36.1
+DNK,Denmark,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),68.6
+DNK,Denmark,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),78.8
+DNK,Denmark,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),28.1
+DNK,Denmark,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.125
+ESP,Spain,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),78.4
+ESP,Spain,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.4
+ESP,Spain,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.5
+ESP,Spain,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),35.4
+ESP,Spain,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),25.3
+ESP,Spain,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),45.3
+ESP,Spain,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),73.9
+ESP,Spain,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),44.8
+ESP,Spain,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),52.75
+EST,Estonia,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),92.4
+EST,Estonia,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),74.4
+EST,Estonia,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),74.2
+EST,Estonia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),46
+EST,Estonia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),32.3
+EST,Estonia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.3
+EST,Estonia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),89.5
+EST,Estonia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),47.9
+EST,Estonia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),64.375
+FIN,Finland,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),82.4
+FIN,Finland,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),73.6
+FIN,Finland,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),64.3
+FIN,Finland,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),42.6
+FIN,Finland,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),21.5
+FIN,Finland,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.6
+FIN,Finland,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),84.8
+FIN,Finland,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),65.8
+FIN,Finland,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.825
+FRA,France,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),75.4
+FRA,France,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),69.5
+FRA,France,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),60.6
+FRA,France,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.2
+FRA,France,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),25.6
+FRA,France,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),42.6
+FRA,France,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),74.1
+FRA,France,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),52.4
+FRA,France,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),54.8
+GBR,United Kingdom,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.7
+GBR,United Kingdom,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.8
+GBR,United Kingdom,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),53.2
+GBR,United Kingdom,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),46.1
+GBR,United Kingdom,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),22.4
+GBR,United Kingdom,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),64.8
+GBR,United Kingdom,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),77.1
+GBR,United Kingdom,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.1
+GBR,United Kingdom,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.15
+GRC,Greece,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.4
+GRC,Greece,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),73.3
+GRC,Greece,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.5
+GRC,Greece,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),46.2
+GRC,Greece,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),31.8
+GRC,Greece,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),51.3
+GRC,Greece,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),72.3
+GRC,Greece,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),50.2
+GRC,Greece,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),57.875
+HUN,Hungary,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),83.8
+HUN,Hungary,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),67.2
+HUN,Hungary,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),68.9
+HUN,Hungary,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),37
+HUN,Hungary,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),25
+HUN,Hungary,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),46.7
+HUN,Hungary,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.7
+HUN,Hungary,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61
+HUN,Hungary,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.2875
+IDN,Indonesia,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.4
+IDN,Indonesia,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),56.5
+IDN,Indonesia,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),47.9
+IDN,Indonesia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.9
+IDN,Indonesia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),34.7
+IDN,Indonesia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.1
+IDN,Indonesia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),71.6
+IDN,Indonesia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),35.9
+IDN,Indonesia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),48.25
+IRL,Ireland,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),71.4
+IRL,Ireland,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),60.3
+IRL,Ireland,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),53.5
+IRL,Ireland,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),36.5
+IRL,Ireland,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),15
+IRL,Ireland,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),22.8
+IRL,Ireland,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76
+IRL,Ireland,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),36.5
+IRL,Ireland,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),46.5
+ITA,Italy,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),89.9
+ITA,Italy,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),72.1
+ITA,Italy,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.7
+ITA,Italy,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),53.1
+ITA,Italy,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),34
+ITA,Italy,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.2
+ITA,Italy,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),68.2
+ITA,Italy,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),47.4
+ITA,Italy,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.075
+JPN,Japan,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),71.6
+JPN,Japan,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),68.8
+JPN,Japan,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),39.2
+JPN,Japan,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),25.2
+JPN,Japan,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),12.7
+JPN,Japan,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),39.6
+JPN,Japan,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),63.6
+JPN,Japan,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.4
+JPN,Japan,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.6375
+KOR,Korea,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),76.9
+KOR,Korea,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),67.9
+KOR,Korea,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.8
+KOR,Korea,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),39.3
+KOR,Korea,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),24.4
+KOR,Korea,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),41
+KOR,Korea,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),72.4
+KOR,Korea,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),48.8
+KOR,Korea,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),52.5625
+LTU,Lithuania,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),80.4
+LTU,Lithuania,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),73.1
+LTU,Lithuania,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),71.6
+LTU,Lithuania,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),45
+LTU,Lithuania,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),22.7
+LTU,Lithuania,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.9
+LTU,Lithuania,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),82.5
+LTU,Lithuania,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),48
+LTU,Lithuania,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.15
+LUX,Luxembourg,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62
+LUX,Luxembourg,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),66.7
+LUX,Luxembourg,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),54
+LUX,Luxembourg,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),29.2
+LUX,Luxembourg,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),25.2
+LUX,Luxembourg,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),78.8
+LUX,Luxembourg,F7,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),52.65
+LVA,Latvia,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),90.6
+LVA,Latvia,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),79.3
+LVA,Latvia,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),70.5
+LVA,Latvia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.6
+LVA,Latvia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),28.1
+LVA,Latvia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.9
+LVA,Latvia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),87.8
+LVA,Latvia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),54.7
+LVA,Latvia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.0625
+MEX,Mexico,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),72
+MEX,Mexico,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.4
+MEX,Mexico,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.9
+MEX,Mexico,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),46.2
+MEX,Mexico,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),27.9
+MEX,Mexico,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),36.3
+MEX,Mexico,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),66.3
+MEX,Mexico,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),28.7
+MEX,Mexico,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.3375
+NLD,Netherlands,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),78.8
+NLD,Netherlands,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),57.6
+NLD,Netherlands,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),53.8
+NLD,Netherlands,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),27.4
+NLD,Netherlands,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),23.1
+NLD,Netherlands,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),54.6
+NLD,Netherlands,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),74.3
+NLD,Netherlands,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),54.3
+NLD,Netherlands,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),52.9875
+NOR,Norway,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),74.4
+NOR,Norway,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.5
+NOR,Norway,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.7
+NOR,Norway,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),33.1
+NOR,Norway,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),19.3
+NOR,Norway,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.1
+NOR,Norway,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),83
+NOR,Norway,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),37.5
+NOR,Norway,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),53.575
+NZL,New Zealand,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),81.5
+NZL,New Zealand,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),64.1
+NZL,New Zealand,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),56.3
+NZL,New Zealand,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.6
+NZL,New Zealand,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),25.8
+NZL,New Zealand,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),65.6
+NZL,New Zealand,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),79.1
+NZL,New Zealand,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),51.8
+NZL,New Zealand,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),57.85
+POL,Poland,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),85.3
+POL,Poland,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),75.7
+POL,Poland,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),69.4
+POL,Poland,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),47.7
+POL,Poland,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.6
+POL,Poland,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),54.8
+POL,Poland,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),73.3
+POL,Poland,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.1
+POL,Poland,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.4875
+PRT,Portugal,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),79.4
+PRT,Portugal,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),60.6
+PRT,Portugal,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.8
+PRT,Portugal,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),56.9
+PRT,Portugal,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),32.6
+PRT,Portugal,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),60.2
+PRT,Portugal,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),79
+PRT,Portugal,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),47.1
+PRT,Portugal,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.7
+RUS,Russia,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),57.5
+RUS,Russia,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),50.2
+RUS,Russia,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),56.3
+RUS,Russia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),27.9
+RUS,Russia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),19.2
+RUS,Russia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),36.8
+RUS,Russia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.7
+RUS,Russia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),24.1
+RUS,Russia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),38.8375
+SAU,Saudi Arabia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),0
+SAU,Saudi Arabia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.5
+SAU,Saudi Arabia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),2.7
+SAU,Saudi Arabia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),83.9
+SAU,Saudi Arabia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),100
+SAU,Saudi Arabia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.82
+SVK,Slovak Republic,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),77.8
+SVK,Slovak Republic,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),67.4
+SVK,Slovak Republic,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),68.2
+SVK,Slovak Republic,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),45.7
+SVK,Slovak Republic,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),31.6
+SVK,Slovak Republic,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),51.9
+SVK,Slovak Republic,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),80.4
+SVK,Slovak Republic,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),41.8
+SVK,Slovak Republic,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),58.1
+SVN,Slovenia,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),88.7
+SVN,Slovenia,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),69.4
+SVN,Slovenia,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),69
+SVN,Slovenia,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),41.5
+SVN,Slovenia,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),24.2
+SVN,Slovenia,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),56.2
+SVN,Slovenia,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),78.8
+SVN,Slovenia,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),48.6
+SVN,Slovenia,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.55
+SWE,Sweden,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),81.1
+SWE,Sweden,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.5
+SWE,Sweden,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),63.2
+SWE,Sweden,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),40
+SWE,Sweden,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),30.6
+SWE,Sweden,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),66.8
+SWE,Sweden,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),81.5
+SWE,Sweden,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),66.1
+SWE,Sweden,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),61.475
+TUR,Turkey,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),64
+TUR,Turkey,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),62.3
+TUR,Turkey,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),48
+TUR,Turkey,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),50
+TUR,Turkey,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),27
+TUR,Turkey,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),43.6
+TUR,Turkey,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),67
+TUR,Turkey,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),37.6
+TUR,Turkey,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),49.9375
+USA,United States,F1,Education,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),78
+USA,United States,F2,Humanities and arts,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),59.8
+USA,United States,F3,"Social sciences, business and law",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),55.8
+USA,United States,F4,"Science, mathematics and computing",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),40.3
+USA,United States,F5,"Engineering, manufacturing and construction",L5T8,Total tertiary education (ISCED2011 levels 5 to 8),19.3
+USA,United States,F6,Agriculture and veterinary,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),50.6
+USA,United States,F7,Health and Welfare,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),81.2
+USA,United States,F8,Services,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),53.1
+USA,United States,F8,total,L5T8,Total tertiary education (ISCED2011 levels 5 to 8),54.7625
+AUS,Australia,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),76.5
+AUS,Australia,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.6
+AUS,Australia,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.2
+AUS,Australia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.6
+AUS,Australia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),22.2
+AUS,Australia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.6
+AUS,Australia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),75.2
+AUS,Australia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.3
+AUT,Austria,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),82.4
+AUT,Austria,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71
+AUT,Austria,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),60.7
+AUT,Austria,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),38.4
+AUT,Austria,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),26.9
+AUT,Austria,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),50.1
+AUT,Austria,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),81.7
+AUT,Austria,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.1
+BEL,Belgium,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),80
+BEL,Belgium,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),62.3
+BEL,Belgium,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),59.2
+BEL,Belgium,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),26.4
+BEL,Belgium,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),21.5
+BEL,Belgium,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),56.8
+BEL,Belgium,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78.8
+BEL,Belgium,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),54.9
+BRA,Brazil,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),76.6
+BRA,Brazil,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.1
+BRA,Brazil,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),58.7
+BRA,Brazil,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),32.8
+BRA,Brazil,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),32.1
+BRA,Brazil,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),43.4
+BRA,Brazil,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),77
+BRA,Brazil,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),62.1
+CHE,Switzerland,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),62.1
+CHE,Switzerland,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.3
+CHE,Switzerland,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),27.3
+CHE,Switzerland,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),12.3
+CHE,Switzerland,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),27.3
+CHE,Switzerland,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78.7
+CHE,Switzerland,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),36.9
+CHL,Chile,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71.9
+CHL,Chile,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.5
+CHL,Chile,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.3
+CHL,Chile,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),20.9
+CHL,Chile,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),21.3
+CHL,Chile,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.3
+CHL,Chile,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),76.6
+CHL,Chile,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),45.4
+COL,Colombia,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),68.7
+COL,Colombia,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),52.9
+COL,Colombia,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.2
+COL,Colombia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),58.9
+COL,Colombia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),36.1
+COL,Colombia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),40.2
+COL,Colombia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),75.7
+COL,Colombia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),42.1
+CRI,Costa Rica,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),74.3
+CRI,Costa Rica,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),53.7
+CRI,Costa Rica,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.4
+CRI,Costa Rica,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),34
+CRI,Costa Rica,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),34.5
+CRI,Costa Rica,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),44.3
+CRI,Costa Rica,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78.4
+CRI,Costa Rica,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),58.4
+CZE,Czech Republic,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),83.5
+CZE,Czech Republic,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),73.1
+CZE,Czech Republic,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),67.5
+CZE,Czech Republic,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),38.3
+CZE,Czech Republic,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),29.2
+CZE,Czech Republic,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),58.7
+CZE,Czech Republic,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),88
+CZE,Czech Republic,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),52
+DEU,Germany,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),80
+DEU,Germany,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),68.9
+DEU,Germany,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.2
+DEU,Germany,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),33
+DEU,Germany,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),17.6
+DEU,Germany,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),29.1
+DEU,Germany,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),79.7
+DEU,Germany,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.8
+DNK,Denmark,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),70.3
+DNK,Denmark,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),68.3
+DNK,Denmark,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),55.7
+DNK,Denmark,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),37.6
+DNK,Denmark,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),27.9
+DNK,Denmark,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),81.6
+DNK,Denmark,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),81
+DNK,Denmark,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),21.4
+ESP,Spain,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),79.9
+ESP,Spain,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.8
+ESP,Spain,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),60
+ESP,Spain,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),38
+ESP,Spain,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),28.2
+ESP,Spain,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),38.6
+ESP,Spain,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78.2
+ESP,Spain,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),49.2
+EST,Estonia,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),93.2
+EST,Estonia,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),75.2
+EST,Estonia,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),73.6
+EST,Estonia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.9
+EST,Estonia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),29.1
+EST,Estonia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.1
+EST,Estonia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),92.8
+EST,Estonia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),44.4
+FIN,Finland,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),83
+FIN,Finland,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),73.9
+FIN,Finland,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),64.1
+FIN,Finland,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),38.3
+FIN,Finland,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),19.5
+FIN,Finland,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.7
+FIN,Finland,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),88
+FIN,Finland,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),68.1
+FRA,France,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),73.9
+FRA,France,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),70.9
+FRA,France,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.1
+FRA,France,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),39.4
+FRA,France,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),27.5
+FRA,France,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),49.3
+FRA,France,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),80.6
+FRA,France,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),44
+GBR,United Kingdom,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),86.1
+GBR,United Kingdom,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),63
+GBR,United Kingdom,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),52.4
+GBR,United Kingdom,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),45.5
+GBR,United Kingdom,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),19.5
+GBR,United Kingdom,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),67.8
+GBR,United Kingdom,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),76.8
+GBR,United Kingdom,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),66.4
+GRC,Greece,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),77.3
+GRC,Greece,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),75.2
+GRC,Greece,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),61.4
+GRC,Greece,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),45.8
+GRC,Greece,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),29.4
+GRC,Greece,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),50.3
+GRC,Greece,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),74.1
+GRC,Greece,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.9
+HUN,Hungary,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),89
+HUN,Hungary,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),70.2
+HUN,Hungary,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),67.5
+HUN,Hungary,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),43.2
+HUN,Hungary,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),22.3
+HUN,Hungary,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),39
+HUN,Hungary,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),86.1
+HUN,Hungary,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),56.4
+IDN,Indonesia,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),62.7
+IDN,Indonesia,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.6
+IDN,Indonesia,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),48.2
+IDN,Indonesia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),38.7
+IDN,Indonesia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),34.9
+IDN,Indonesia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),37.8
+IDN,Indonesia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),72.4
+IDN,Indonesia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),35.9
+IRL,Ireland,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71.5
+IRL,Ireland,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),59.1
+IRL,Ireland,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),53.9
+IRL,Ireland,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),37.1
+IRL,Ireland,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),11.2
+IRL,Ireland,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),20.6
+IRL,Ireland,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78.7
+IRL,Ireland,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),36.8
+ISR,Israel,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),85.3
+ISR,Israel,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.2
+ISR,Israel,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),58.9
+ISR,Israel,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),40.4
+ISR,Israel,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),27.9
+ISR,Israel,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.3
+ISR,Israel,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),80.1
+ITA,Italy,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),89.5
+ITA,Italy,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71.9
+ITA,Italy,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.2
+ITA,Italy,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),52.8
+ITA,Italy,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),32
+ITA,Italy,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),46.8
+ITA,Italy,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71.8
+ITA,Italy,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.1
+JPN,Japan,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),61
+JPN,Japan,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),69.7
+JPN,Japan,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),36.2
+JPN,Japan,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),27.2
+JPN,Japan,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),12.1
+JPN,Japan,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),42.4
+JPN,Japan,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),72.1
+JPN,Japan,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),90.6
+KOR,Korea,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),69.8
+KOR,Korea,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),69.8
+KOR,Korea,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.9
+KOR,Korea,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),39.9
+KOR,Korea,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),25.8
+KOR,Korea,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),42.8
+KOR,Korea,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71.8
+KOR,Korea,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),37.8
+LTU,Lithuania,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),80.1
+LTU,Lithuania,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),73.3
+LTU,Lithuania,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),70.4
+LTU,Lithuania,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.6
+LTU,Lithuania,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),20.6
+LTU,Lithuania,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),40.6
+LTU,Lithuania,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),87.5
+LTU,Lithuania,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),47.1
+LUX,Luxembourg,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),74.8
+LUX,Luxembourg,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),72.2
+LUX,Luxembourg,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),56.1
+LUX,Luxembourg,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.7
+LUX,Luxembourg,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),17.6
+LVA,Latvia,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),89.1
+LVA,Latvia,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78.4
+LVA,Latvia,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),66.7
+LVA,Latvia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.6
+LVA,Latvia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),29
+LVA,Latvia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),27.9
+LVA,Latvia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),92.6
+LVA,Latvia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),59.6
+MEX,Mexico,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),73.9
+MEX,Mexico,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),58.7
+MEX,Mexico,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),60
+MEX,Mexico,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),46.5
+MEX,Mexico,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),28.4
+MEX,Mexico,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),35.9
+MEX,Mexico,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),67.8
+MEX,Mexico,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),28.5
+NLD,Netherlands,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78.2
+NLD,Netherlands,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),56.8
+NLD,Netherlands,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),52.8
+NLD,Netherlands,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),24.6
+NLD,Netherlands,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),20.4
+NLD,Netherlands,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),52.6
+NLD,Netherlands,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),77.1
+NLD,Netherlands,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),55
+NOR,Norway,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),74.8
+NOR,Norway,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),60.6
+NOR,Norway,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),59.4
+NOR,Norway,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),29.3
+NOR,Norway,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),20.3
+NOR,Norway,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),49.2
+NOR,Norway,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),85.5
+NOR,Norway,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.5
+NZL,New Zealand,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),82.6
+NZL,New Zealand,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),65.3
+NZL,New Zealand,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),57.6
+NZL,New Zealand,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.8
+NZL,New Zealand,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),26.8
+NZL,New Zealand,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),56.4
+NZL,New Zealand,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),79.4
+NZL,New Zealand,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),49.1
+POL,Poland,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),85.4
+POL,Poland,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),77.6
+POL,Poland,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),68.7
+POL,Poland,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),44.9
+POL,Poland,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),37.6
+POL,Poland,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),52.4
+POL,Poland,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71.8
+POL,Poland,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),54.2
+PRT,Portugal,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),91.3
+PRT,Portugal,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),60.5
+PRT,Portugal,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),61.4
+PRT,Portugal,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),55
+PRT,Portugal,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),28.3
+PRT,Portugal,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),61.6
+PRT,Portugal,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),81.3
+PRT,Portugal,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),45.6
+RUS,Russia,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),81.6
+RUS,Russia,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),71.6
+RUS,Russia,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.5
+RUS,Russia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),38.5
+RUS,Russia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),32.1
+RUS,Russia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),45.4
+RUS,Russia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),81.3
+RUS,Russia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),43.8
+SAU,Saudi Arabia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),0
+SAU,Saudi Arabia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),64.6
+SAU,Saudi Arabia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),4.6
+SAU,Saudi Arabia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),94.9
+SAU,Saudi Arabia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),100
+SVK,Slovak Republic,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),78
+SVK,Slovak Republic,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),69.7
+SVK,Slovak Republic,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),68.2
+SVK,Slovak Republic,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),44.5
+SVK,Slovak Republic,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),32.3
+SVK,Slovak Republic,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),52.7
+SVK,Slovak Republic,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),80.8
+SVK,Slovak Republic,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),37.3
+SVN,Slovenia,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),92.3
+SVN,Slovenia,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),73.2
+SVN,Slovenia,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),67.9
+SVN,Slovenia,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),40.9
+SVN,Slovenia,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),23.9
+SVN,Slovenia,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),51.7
+SVN,Slovenia,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),80
+SVN,Slovenia,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),56
+SWE,Sweden,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),88.6
+SWE,Sweden,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),63.5
+SWE,Sweden,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),64
+SWE,Sweden,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),41.8
+SWE,Sweden,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),34
+SWE,Sweden,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),60.7
+SWE,Sweden,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),85.4
+SWE,Sweden,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),61.3
+TUR,Turkey,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),60.8
+TUR,Turkey,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),62.3
+TUR,Turkey,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),45.4
+TUR,Turkey,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),58.2
+TUR,Turkey,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),32.6
+TUR,Turkey,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),38.1
+TUR,Turkey,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),74.1
+TUR,Turkey,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),28.4
+USA,United States,F1,Education,L6,Bachelor’s or equivalent level (ISCED2011 level 6),79.4
+USA,United States,F2,Humanities and arts,L6,Bachelor’s or equivalent level (ISCED2011 level 6),60
+USA,United States,F3,"Social sciences, business and law",L6,Bachelor’s or equivalent level (ISCED2011 level 6),55.4
+USA,United States,F4,"Science, mathematics and computing",L6,Bachelor’s or equivalent level (ISCED2011 level 6),43.6
+USA,United States,F5,"Engineering, manufacturing and construction",L6,Bachelor’s or equivalent level (ISCED2011 level 6),20.3
+USA,United States,F6,Agriculture and veterinary,L6,Bachelor’s or equivalent level (ISCED2011 level 6),50.5
+USA,United States,F7,Health and Welfare,L6,Bachelor’s or equivalent level (ISCED2011 level 6),84.8
+USA,United States,F8,Services,L6,Bachelor’s or equivalent level (ISCED2011 level 6),53.6
+AUS,Australia,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),75
+AUS,Australia,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),65.3
+AUS,Australia,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),51.2
+AUS,Australia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),31.9
+AUS,Australia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),29.2
+AUS,Australia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),63.6
+AUS,Australia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),72.7
+AUS,Australia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),48.1
+AUT,Austria,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),74.3
+AUT,Austria,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),67.6
+AUT,Austria,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),57.5
+AUT,Austria,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),36.3
+AUT,Austria,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),28.3
+AUT,Austria,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),68.9
+AUT,Austria,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),62.7
+AUT,Austria,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),43.9
+BEL,Belgium,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),76.2
+BEL,Belgium,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),65.7
+BEL,Belgium,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),59.9
+BEL,Belgium,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),37.1
+BEL,Belgium,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),25.7
+BEL,Belgium,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),59.4
+BEL,Belgium,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),67.2
+BEL,Belgium,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),36.9
+BRA,Brazil,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),70.3
+BRA,Brazil,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),56.9
+BRA,Brazil,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),50.5
+BRA,Brazil,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),45.2
+BRA,Brazil,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),42.5
+BRA,Brazil,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),53.3
+BRA,Brazil,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),71.7
+BRA,Brazil,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),60.3
+CHE,Switzerland,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),62.3
+CHE,Switzerland,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),61
+CHE,Switzerland,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),49.9
+CHE,Switzerland,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),36.2
+CHE,Switzerland,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),20.2
+CHE,Switzerland,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),42.4
+CHE,Switzerland,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),60
+CHE,Switzerland,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),36.9
+CHL,Chile,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),71.4
+CHL,Chile,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),53.9
+CHL,Chile,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),48.6
+CHL,Chile,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),37.3
+CHL,Chile,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),28
+CHL,Chile,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),46.5
+CHL,Chile,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),57.4
+CHL,Chile,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),38.5
+COL,Colombia,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),65.6
+COL,Colombia,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),45.6
+COL,Colombia,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),56.6
+COL,Colombia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),36.5
+COL,Colombia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),33.5
+COL,Colombia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),36.1
+COL,Colombia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),63.4
+COL,Colombia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),41.7
+CRI,Costa Rica,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),71.7
+CRI,Costa Rica,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),60.7
+CRI,Costa Rica,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),53
+CRI,Costa Rica,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),36.1
+CRI,Costa Rica,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),23.4
+CRI,Costa Rica,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),36.5
+CRI,Costa Rica,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),64
+CRI,Costa Rica,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),51.5
+CZE,Czech Republic,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),84.3
+CZE,Czech Republic,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),68.9
+CZE,Czech Republic,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),67
+CZE,Czech Republic,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),38.4
+CZE,Czech Republic,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),27.2
+CZE,Czech Republic,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),60.9
+CZE,Czech Republic,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),74.8
+CZE,Czech Republic,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),51
+DEU,Germany,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),72
+DEU,Germany,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),71.9
+DEU,Germany,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),54.7
+DEU,Germany,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),44.3
+DEU,Germany,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),23.7
+DEU,Germany,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),61.7
+DEU,Germany,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),66.3
+DEU,Germany,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),53.5
+DNK,Denmark,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),71
+DNK,Denmark,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),68.3
+DNK,Denmark,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),56.1
+DNK,Denmark,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),39.5
+DNK,Denmark,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),41.4
+DNK,Denmark,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),74.3
+DNK,Denmark,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),71.9
+DNK,Denmark,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),49.8
+ESP,Spain,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),65.5
+ESP,Spain,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),61.1
+ESP,Spain,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),56.7
+ESP,Spain,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),45.3
+ESP,Spain,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),35.3
+ESP,Spain,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),57.3
+ESP,Spain,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),69.1
+ESP,Spain,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),40.6
+EST,Estonia,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),91.6
+EST,Estonia,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),73
+EST,Estonia,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),75.8
+EST,Estonia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),54.8
+EST,Estonia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),36.4
+EST,Estonia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),73.2
+EST,Estonia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),77.1
+EST,Estonia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),64.1
+FIN,Finland,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),82.5
+FIN,Finland,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),74.2
+FIN,Finland,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),64.8
+FIN,Finland,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),47.2
+FIN,Finland,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),25.1
+FIN,Finland,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),64
+FIN,Finland,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),76.9
+FIN,Finland,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),55.9
+FRA,France,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),76.4
+FRA,France,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),69.6
+FRA,France,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),58.5
+FRA,France,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),37.4
+FRA,France,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),33.6
+FRA,France,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),66.2
+FRA,France,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),63.9
+FRA,France,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),46.2
+GBR,United Kingdom,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),72.4
+GBR,United Kingdom,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),64.5
+GBR,United Kingdom,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),54.5
+GBR,United Kingdom,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),50
+GBR,United Kingdom,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),29.5
+GBR,United Kingdom,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),59.5
+GBR,United Kingdom,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),74.3
+GBR,United Kingdom,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),60.7
+GRC,Greece,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),73.7
+GRC,Greece,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),65.7
+GRC,Greece,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),62.7
+GRC,Greece,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),47.5
+GRC,Greece,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),43.9
+GRC,Greece,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),57.9
+GRC,Greece,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),69.5
+GRC,Greece,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),65.1
+HUN,Hungary,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),74.3
+HUN,Hungary,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),63.6
+HUN,Hungary,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),66
+HUN,Hungary,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),42.3
+HUN,Hungary,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),29.4
+HUN,Hungary,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),54.9
+HUN,Hungary,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),62.9
+HUN,Hungary,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),47.6
+IDN,Indonesia,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),53.3
+IDN,Indonesia,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),43.5
+IDN,Indonesia,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),43.7
+IDN,Indonesia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),44.5
+IDN,Indonesia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),27.4
+IDN,Indonesia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),44.2
+IDN,Indonesia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),65.5
+IDN,Indonesia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),35.7
+IRL,Ireland,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),70.9
+IRL,Ireland,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),60.7
+IRL,Ireland,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),49.2
+IRL,Ireland,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),33.5
+IRL,Ireland,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),28.6
+IRL,Ireland,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),46.9
+IRL,Ireland,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),77.1
+IRL,Ireland,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),47.8
+ISR,Israel,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),85.1
+ISR,Israel,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),59.4
+ISR,Israel,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),53.1
+ISR,Israel,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),47.5
+ISR,Israel,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),26.1
+ISR,Israel,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),50.6
+ISR,Israel,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),75.6
+ITA,Italy,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),90.8
+ITA,Italy,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),73.3
+ITA,Italy,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),60.6
+ITA,Italy,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),55
+ITA,Italy,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),36.7
+ITA,Italy,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),51.7
+ITA,Italy,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),64.2
+ITA,Italy,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),48.5
+JPN,Japan,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),49
+JPN,Japan,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),62.6
+JPN,Japan,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),36.1
+JPN,Japan,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),22.4
+JPN,Japan,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),10.7
+JPN,Japan,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),36.9
+JPN,Japan,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),47.3
+JPN,Japan,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),85.3
+KOR,Korea,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),75.8
+KOR,Korea,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),55.1
+KOR,Korea,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),43.4
+KOR,Korea,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),43
+KOR,Korea,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),22.5
+KOR,Korea,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),36.5
+KOR,Korea,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),63.1
+KOR,Korea,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),35.9
+LTU,Lithuania,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),82.1
+LTU,Lithuania,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),72.9
+LTU,Lithuania,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),74.8
+LTU,Lithuania,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),51.1
+LTU,Lithuania,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),29.8
+LTU,Lithuania,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),65
+LTU,Lithuania,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),74.9
+LTU,Lithuania,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),52.5
+LUX,Luxembourg,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),57.7
+LUX,Luxembourg,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),46.2
+LUX,Luxembourg,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),50.6
+LUX,Luxembourg,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),30.2
+LUX,Luxembourg,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),50
+LUX,Luxembourg,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),57.9
+LVA,Latvia,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),93
+LVA,Latvia,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),80.5
+LVA,Latvia,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),73.8
+LVA,Latvia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),45.6
+LVA,Latvia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),33.2
+LVA,Latvia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),59.3
+LVA,Latvia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),77.3
+LVA,Latvia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),67.9
+MEX,Mexico,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),67.9
+MEX,Mexico,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),55.8
+MEX,Mexico,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),52.4
+MEX,Mexico,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),46.6
+MEX,Mexico,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),32.9
+MEX,Mexico,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),46.1
+MEX,Mexico,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),60.4
+MEX,Mexico,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),29.6
+NLD,Netherlands,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),80.6
+NLD,Netherlands,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),59.7
+NLD,Netherlands,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),56
+NLD,Netherlands,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),31.6
+NLD,Netherlands,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),28.8
+NLD,Netherlands,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),62.7
+NLD,Netherlands,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),68.2
+NLD,Netherlands,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),46.5
+NOR,Norway,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),76
+NOR,Norway,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),58.3
+NOR,Norway,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),58.1
+NOR,Norway,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),38.9
+NOR,Norway,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),33.1
+NOR,Norway,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),68.2
+NOR,Norway,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),78
+NOR,Norway,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),47.9
+NZL,New Zealand,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),73.4
+NZL,New Zealand,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),61.9
+NZL,New Zealand,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),54.7
+NZL,New Zealand,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),48.1
+NZL,New Zealand,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),33.1
+NZL,New Zealand,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),55.6
+NZL,New Zealand,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),83.9
+NZL,New Zealand,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),58.2
+POL,Poland,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),85.1
+POL,Poland,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),73.9
+POL,Poland,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),70.6
+POL,Poland,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),52.8
+POL,Poland,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),40.5
+POL,Poland,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),57.3
+POL,Poland,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),78.3
+POL,Poland,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),57.7
+PRT,Portugal,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),75.9
+PRT,Portugal,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),62
+PRT,Portugal,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),63.1
+PRT,Portugal,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),59.7
+PRT,Portugal,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),37.4
+PRT,Portugal,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),59.8
+PRT,Portugal,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),76.2
+PRT,Portugal,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),49.7
+RUS,Russia,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),77.3
+RUS,Russia,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),77.1
+RUS,Russia,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),68.1
+RUS,Russia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),40.6
+RUS,Russia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),29.4
+RUS,Russia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),55.8
+RUS,Russia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),76.5
+RUS,Russia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),43.3
+SAU,Saudi Arabia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),0
+SAU,Saudi Arabia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),19.2
+SAU,Saudi Arabia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),0
+SAU,Saudi Arabia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),98
+SAU,Saudi Arabia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),100
+SVK,Slovak Republic,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),77.9
+SVK,Slovak Republic,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),67.1
+SVK,Slovak Republic,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),69.1
+SVK,Slovak Republic,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),44.9
+SVK,Slovak Republic,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),31.1
+SVK,Slovak Republic,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),52.8
+SVK,Slovak Republic,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),80.7
+SVK,Slovak Republic,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),43.9
+SVN,Slovenia,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),84
+SVN,Slovenia,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),74.8
+SVN,Slovenia,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),69.4
+SVN,Slovenia,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),44.5
+SVN,Slovenia,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),29.4
+SVN,Slovenia,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),60.4
+SVN,Slovenia,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),77.4
+SVN,Slovenia,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),53.2
+SWE,Sweden,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),69
+SWE,Sweden,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),63.5
+SWE,Sweden,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),58.6
+SWE,Sweden,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),44.6
+SWE,Sweden,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),31.6
+SWE,Sweden,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),66.4
+SWE,Sweden,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),76.9
+SWE,Sweden,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),62.5
+TUR,Turkey,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),52.9
+TUR,Turkey,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),46.9
+TUR,Turkey,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),39.7
+TUR,Turkey,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),54.1
+TUR,Turkey,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),34.6
+TUR,Turkey,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),31.2
+TUR,Turkey,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),54.3
+TUR,Turkey,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),31.7
+USA,United States,F1,Education,L7,Master’s or equivalent level (ISCED2011 level 7),76.6
+USA,United States,F2,Humanities and arts,L7,Master’s or equivalent level (ISCED2011 level 7),52.2
+USA,United States,F3,"Social sciences, business and law",L7,Master’s or equivalent level (ISCED2011 level 7),52.2
+USA,United States,F4,"Science, mathematics and computing",L7,Master’s or equivalent level (ISCED2011 level 7),39
+USA,United States,F5,"Engineering, manufacturing and construction",L7,Master’s or equivalent level (ISCED2011 level 7),27.9
+USA,United States,F6,Agriculture and veterinary,L7,Master’s or equivalent level (ISCED2011 level 7),64.4
+USA,United States,F7,Health and Welfare,L7,Master’s or equivalent level (ISCED2011 level 7),74
+USA,United States,F8,Services,L7,Master’s or equivalent level (ISCED2011 level 7),52.2
+AUS,Australia,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),67.9
+AUS,Australia,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.5
+AUS,Australia,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),55.4
+AUS,Australia,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),46.2
+AUS,Australia,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),28.1
+AUS,Australia,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),55
+AUS,Australia,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),61.1
+AUS,Australia,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),51.8
+AUT,Austria,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),74.1
+AUT,Austria,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),54.3
+AUT,Austria,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),50.1
+AUT,Austria,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),33.4
+AUT,Austria,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),25.6
+AUT,Austria,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),55.9
+AUT,Austria,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),54.5
+AUT,Austria,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),23.5
+BEL,Belgium,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),61.3
+BEL,Belgium,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),50.9
+BEL,Belgium,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),49.9
+BEL,Belgium,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),37.7
+BEL,Belgium,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),27.8
+BEL,Belgium,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),45.9
+BEL,Belgium,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),59.5
+BEL,Belgium,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),57.1
+BRA,Brazil,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),68.2
+BRA,Brazil,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),55.3
+BRA,Brazil,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),49.1
+BRA,Brazil,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),48.6
+BRA,Brazil,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),45.5
+BRA,Brazil,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),49.6
+BRA,Brazil,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),66.4
+BRA,Brazil,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),55
+CHE,Switzerland,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),69
+CHE,Switzerland,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),50.9
+CHE,Switzerland,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),46.6
+CHE,Switzerland,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),38.2
+CHE,Switzerland,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),23.1
+CHE,Switzerland,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),70.5
+CHE,Switzerland,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.8
+CHE,Switzerland,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),47.6
+CHL,Chile,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),67.4
+CHL,Chile,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),46.2
+CHL,Chile,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),44.8
+CHL,Chile,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),39.3
+CHL,Chile,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),31.9
+CHL,Chile,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.7
+CHL,Chile,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),62.9
+COL,Colombia,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),34.2
+COL,Colombia,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),32.6
+COL,Colombia,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),41.3
+COL,Colombia,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),35.6
+COL,Colombia,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),34.1
+COL,Colombia,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),43.8
+COL,Colombia,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.1
+COL,Colombia,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),50
+CRI,Costa Rica,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),54.1
+CRI,Costa Rica,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),50
+CRI,Costa Rica,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),50
+CRI,Costa Rica,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),60
+CZE,Czech Republic,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),68.1
+CZE,Czech Republic,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),49.7
+CZE,Czech Republic,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),49.6
+CZE,Czech Republic,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),42.2
+CZE,Czech Republic,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),23
+CZE,Czech Republic,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),52
+CZE,Czech Republic,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),50
+CZE,Czech Republic,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),47.1
+DEU,Germany,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.7
+DEU,Germany,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),51.9
+DEU,Germany,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),43.3
+DEU,Germany,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),38.6
+DEU,Germany,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),18.9
+DEU,Germany,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),65.5
+DEU,Germany,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),59.8
+DEU,Germany,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.9
+DNK,Denmark,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),50
+DNK,Denmark,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),47.9
+DNK,Denmark,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),36.2
+DNK,Denmark,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),31.3
+DNK,Denmark,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),60.9
+DNK,Denmark,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.9
+ESP,Spain,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),60
+ESP,Spain,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),50.6
+ESP,Spain,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),48.7
+ESP,Spain,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),47.5
+ESP,Spain,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),34.4
+ESP,Spain,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),46.4
+ESP,Spain,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),61.2
+ESP,Spain,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),43.1
+EST,Estonia,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),100
+EST,Estonia,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),65.5
+EST,Estonia,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),63
+EST,Estonia,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),40
+EST,Estonia,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),40
+EST,Estonia,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),66.7
+EST,Estonia,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),80
+EST,Estonia,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),57.1
+FIN,Finland,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),71.1
+FIN,Finland,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),61.7
+FIN,Finland,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),61.2
+FIN,Finland,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),45.5
+FIN,Finland,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),27.4
+FIN,Finland,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),62.9
+FIN,Finland,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),70.4
+FIN,Finland,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.8
+FRA,France,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.5
+FRA,France,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),60.9
+FRA,France,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),52.3
+FRA,France,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),40.2
+FRA,France,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),32.6
+FRA,France,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),52.8
+FRA,France,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),29.2
+GBR,United Kingdom,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),70.2
+GBR,United Kingdom,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),49.9
+GBR,United Kingdom,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),46.7
+GBR,United Kingdom,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),45.2
+GBR,United Kingdom,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),26.4
+GBR,United Kingdom,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),56.6
+GBR,United Kingdom,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.5
+GBR,United Kingdom,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.7
+GRC,Greece,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),56.6
+GRC,Greece,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),57.4
+GRC,Greece,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),53.2
+GRC,Greece,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),45.6
+GRC,Greece,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),39.1
+GRC,Greece,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.2
+GRC,Greece,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),51.2
+GRC,Greece,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),40
+HUN,Hungary,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),86.1
+HUN,Hungary,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),49.5
+HUN,Hungary,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),55.6
+HUN,Hungary,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),39.7
+HUN,Hungary,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),29.7
+HUN,Hungary,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),49.3
+HUN,Hungary,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),56.3
+HUN,Hungary,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),25
+IDN,Indonesia,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),41
+IDN,Indonesia,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),33.7
+IDN,Indonesia,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),45.2
+IDN,Indonesia,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),46.3
+IDN,Indonesia,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),25
+IDN,Indonesia,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),44.4
+IDN,Indonesia,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),42.2
+IDN,Indonesia,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),33.3
+IRL,Ireland,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),65.6
+IRL,Ireland,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),56.5
+IRL,Ireland,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),58.6
+IRL,Ireland,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),44.6
+IRL,Ireland,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),27.8
+IRL,Ireland,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),55
+IRL,Ireland,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),56.9
+IRL,Ireland,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),66.7
+ISR,Israel,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),76.7
+ISR,Israel,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),46.7
+ISR,Israel,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),61.4
+ISR,Israel,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),45.2
+ISR,Israel,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),25.9
+ISR,Israel,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),44.1
+ISR,Israel,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),82.2
+ITA,Italy,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),75
+ITA,Italy,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),61.2
+ITA,Italy,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),55.7
+ITA,Italy,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),49.4
+ITA,Italy,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),35.1
+ITA,Italy,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.8
+ITA,Italy,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),65.6
+ITA,Italy,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),46.2
+JPN,Japan,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.6
+JPN,Japan,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.3
+JPN,Japan,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),40.2
+JPN,Japan,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),22.3
+JPN,Japan,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),16.2
+JPN,Japan,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),33.3
+JPN,Japan,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),32.6
+JPN,Japan,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),83.3
+KOR,Korea,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),68.3
+KOR,Korea,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),56.8
+KOR,Korea,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),30.7
+KOR,Korea,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),30.1
+KOR,Korea,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),14.5
+KOR,Korea,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),27.8
+KOR,Korea,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),49.7
+KOR,Korea,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),27
+LTU,Lithuania,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),81
+LTU,Lithuania,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),61.3
+LTU,Lithuania,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),71.9
+LTU,Lithuania,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),56.8
+LTU,Lithuania,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),32
+LTU,Lithuania,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),78.3
+LTU,Lithuania,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),72.7
+LUX,Luxembourg,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),0
+LUX,Luxembourg,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),60
+LUX,Luxembourg,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),63.3
+LUX,Luxembourg,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),18.2
+LUX,Luxembourg,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),0
+LVA,Latvia,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),65
+LVA,Latvia,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),69.6
+LVA,Latvia,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),70.5
+LVA,Latvia,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),43.5
+LVA,Latvia,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),46.9
+LVA,Latvia,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),66.7
+LVA,Latvia,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),73.3
+LVA,Latvia,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),81.8
+MEX,Mexico,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),54.2
+MEX,Mexico,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.9
+MEX,Mexico,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),46.7
+MEX,Mexico,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),40.7
+MEX,Mexico,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),36.2
+MEX,Mexico,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),45.3
+MEX,Mexico,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),65.8
+MEX,Mexico,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),40
+NLD,Netherlands,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),45
+NLD,Netherlands,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),53.5
+NLD,Netherlands,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),35.9
+NLD,Netherlands,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),27.2
+NLD,Netherlands,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),50.3
+NLD,Netherlands,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),59.1
+NOR,Norway,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),83.3
+NOR,Norway,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),56.6
+NOR,Norway,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),51.7
+NOR,Norway,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),37.9
+NOR,Norway,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),24
+NOR,Norway,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),51.5
+NOR,Norway,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),62.3
+NOR,Norway,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),52.9
+NZL,New Zealand,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),63.3
+NZL,New Zealand,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),62.1
+NZL,New Zealand,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),59.8
+NZL,New Zealand,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),44.4
+NZL,New Zealand,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),29.9
+NZL,New Zealand,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.3
+NZL,New Zealand,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),64
+NZL,New Zealand,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),48
+POL,Poland,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.6
+POL,Poland,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),53.2
+POL,Poland,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),53.1
+POL,Poland,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),35.8
+POL,Poland,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),70.5
+POL,Poland,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),66.9
+POL,Poland,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),64.1
+PRT,Portugal,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),71.5
+PRT,Portugal,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.1
+PRT,Portugal,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),52.6
+PRT,Portugal,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),54.7
+PRT,Portugal,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),33.6
+PRT,Portugal,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),42
+PRT,Portugal,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),69.4
+PRT,Portugal,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),52.2
+SAU,Saudi Arabia,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),0
+SAU,Saudi Arabia,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),25
+SAU,Saudi Arabia,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),0
+SAU,Saudi Arabia,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),100
+SAU,Saudi Arabia,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),100
+SVK,Slovak Republic,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),63.2
+SVK,Slovak Republic,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),53.5
+SVK,Slovak Republic,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),51.3
+SVK,Slovak Republic,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),59.1
+SVK,Slovak Republic,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),29
+SVK,Slovak Republic,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),38.2
+SVK,Slovak Republic,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),65.7
+SVK,Slovak Republic,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),38.1
+SVN,Slovenia,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),86.4
+SVN,Slovenia,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),59.5
+SVN,Slovenia,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),68.2
+SVN,Slovenia,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),54.6
+SVN,Slovenia,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),24.9
+SVN,Slovenia,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),61.8
+SVN,Slovenia,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),38.5
+SVN,Slovenia,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.4
+SWE,Sweden,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),70.1
+SWE,Sweden,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.9
+SWE,Sweden,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),55.3
+SWE,Sweden,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),36.5
+SWE,Sweden,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),26.2
+SWE,Sweden,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),60
+SWE,Sweden,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),64.8
+SWE,Sweden,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),29.3
+TUR,Turkey,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),44.9
+TUR,Turkey,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),38.8
+TUR,Turkey,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),46.5
+TUR,Turkey,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),52.1
+TUR,Turkey,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),37.1
+TUR,Turkey,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),47.6
+TUR,Turkey,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),69.8
+TUR,Turkey,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),37.8
+USA,United States,F1,Education,L8,Doctoral or equivalent level  (ISCED2011 level 8),68.6
+USA,United States,F2,Humanities and arts,L8,Doctoral or equivalent level  (ISCED2011 level 8),48.6
+USA,United States,F3,"Social sciences, business and law",L8,Doctoral or equivalent level  (ISCED2011 level 8),58.3
+USA,United States,F4,"Science, mathematics and computing",L8,Doctoral or equivalent level  (ISCED2011 level 8),40.7
+USA,United States,F5,"Engineering, manufacturing and construction",L8,Doctoral or equivalent level  (ISCED2011 level 8),23.1
+USA,United States,F6,Agriculture and veterinary,L8,Doctoral or equivalent level  (ISCED2011 level 8),47.3
+USA,United States,F7,Health and Welfare,L8,Doctoral or equivalent level  (ISCED2011 level 8),74.7
+USA,United States,F8,Services,L8,Doctoral or equivalent level  (ISCED2011 level 8),58.7

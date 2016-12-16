@@ -1,0 +1,98 @@
+<!--
+Visualization of women graduates in tertiare education
+Eva van Zelm
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="map.css"/>
+</head>
+<body>
+	<script src="datamaps.world.min.js"></script>
+
+	<div id = "border" style=" width: 97.6%;">
+	<h1>
+		Female graduates in tertiary education in 2014
+	</h1>
+	</div>
+
+	<div id = "visual" style=" width: 100%;""></div>
+
+		<div id = "border" style=" width: 60%; height: 300px">
+			<div id = "border1" style=" width: 90%;">
+				<h2>
+					Percentage of female graduates per country
+				</h2>
+				<p>
+					This graph shows for every country the percentage of graduates that are female. The values are devided in 3 groups: a = 0 - 50%, b = 50 - 60%, c = 60 - 100%. These percentages are an average of all fields of study and all the different levels of tertiary education (bachelor, master and docteral). This shows that most countries show a division of graduates between genders close to 50-50.
+				</p>	
+			</div>
+		</div>
+		<div id = "border" style=" width: 36%; height: 300px">
+			<div id = "border1" style=" width: 90%;">
+				<h2>
+					Percentage of female graduates per field of study
+				</h2>
+				<p>
+					When clicking on a country the percentages of male and female graduates per field of study are depicted in independent pie charts. Female graduates are depicted in pink and male graduates in blue. While the average percentages of female graduates are mostly close to 50% this percentage differs per field. 
+				</p>	
+			</div>
+		</div>
+
+
+		<div id = "frame" style=" width: 60%;"">
+			<div id="map" style=" width: 98%; height: 680px;" ></div>
+		</div>
+
+
+		<div id = "frame" style=" width: 36%; height: 680px;">
+			<div id="pie" style=" width: 100%; height: 680px;">
+				<p class = "click" style=" width: 87%;">
+					<br>
+					<br>
+					<br>
+					Click on a country to view percentages per field
+				</p>
+			</div>
+		</div>
+
+		<div id = "whitespace" style="width: 100%; height: 25px;"></div>
+
+		<div id = "frame" style=" width: 60%; height: 500px; "">
+			<div id="bar" style=" width: 100%; height: 680px;" >
+				<p class = "click">
+					Click on a country to view percentages per level
+				</p>
+			</div>
+		</div>
+
+		<div id = "border" style=" width: 36%; height: 500px">
+			<div id = "border1" style=" width: 90%;">
+				<h2>
+				<br>
+				<br>
+				<br>
+					Percentage of female graduates per level and field
+				</h2>
+				<p>
+					When clicking on a country you can see the percentages of female graduates per level (bachelor, master or doctoral) and field of study. This shows that in some cases the percentage of female graduates differs between the different levels of education. In these cases the percentage of female graduates is often higher in the bachelor level compared to masters and doctoral. 
+				</p>	
+			</div>
+		</div>
+
+	</div>
+
+	<div id = "whitespace" style=" width: 97.6%; height: 13px;"></div>
+
+ 	<div id ="name">
+ 	Eva van Zelm
+ 	</div>
+
+	<script src="map.js"></script>
+</body>
+</html>
